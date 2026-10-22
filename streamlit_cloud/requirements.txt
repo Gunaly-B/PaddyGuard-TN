@@ -1,0 +1,10 @@
+# Keep this list limited to the imports used by the online image inference app.
+streamlit>=1.46,<2
+torch>=2.2
+torchvision>=0.17
+timm>=0.9.16
+opencv-python-headless>=4.9
+pandas>=2.2
+matplotlib>=3.8
+grad-cam>=1.5
+Pillow>=10
